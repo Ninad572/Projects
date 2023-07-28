@@ -4,11 +4,11 @@
 ![s4](https://github.com/Ninad572/Projects/assets/99063627/8969360f-5110-49c4-9d81-8f6bb75c3f71)
 ![s5](https://github.com/Ninad572/Projects/assets/99063627/ccfe7d39-c3ad-4901-9aff-dce3407106ac)
 
-Stock Analysis App
+"Stock Analysis App"
 
 This is a simple web application built with Streamlit that allows you to perform stock analysis for popular tickers. The application provides various functionalities, including retrieving stock information, financial ratios, income statements, balance sheets, cash flow statements, and the latest news related to a specific stock ticker.
 
-Prerequisites
+"Prerequisites"
 Before running the application, make sure you have the following dependencies installed:
 
 streamlit
@@ -25,13 +25,13 @@ pip install streamlit requests yfinance pandas matplotlib beautifulsoup4 textblo
 Getting Started
 To use the application, follow these steps:
 
-Clone the repository:
+"Clone the repository:"
 
 bash
 git clone https://github.com/your-username/stock-analysis-app.git
 cd stock-analysis-app
 
-Run the app:
+"Run the app:"
 bash
 streamlit run app.py
 Functionality
@@ -48,8 +48,8 @@ The application will display the relevant information and visualizations.
 
 Please remember to use your own API keys if required (e.g., NewsAPI and Alpha Vantage) in the respective sections of the code.
 
-Acknowledgments
+"Acknowledgments"
 The application uses data from Alpha Vantage and NewsAPI to provide financial and news information. Special thanks to these services for providing valuable data to developers.
 
-Disclaimer
+"Disclaimer"
 This application is for educational and informational purposes only. The stock data and information provided by this app may not be accurate and should not be considered as financial advice. Always do your own research and consult with a qualified financial advisor before making any investment decisions.
