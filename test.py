@@ -277,6 +277,6 @@ elif b5:
     st.sidebar.write("Proceeds from Sale of Treasury Stock: The cash proceeds received by the company from selling its own previously repurchased stock (treasury stock) back to the open market or investors.")
     st.sidebar.write("Change in Cash and Cash Equivalents: The net change in the company's cash and cash equivalents, indicating the increase or decrease in readily available funds for business operations.")
     st.sidebar.write("Change in Exchange Rate: The net change in the company's cash and cash equivalents due to fluctuations in exchange rates when dealing with foreign currencies.")
-    st.sidebar.write("Net Income: The company's total profit or loss earned during the fiscal period after accounting for all revenues, expenses, taxes, and extraordinary items.")
+    st.sidebar.write("Net Income:The company's total profit or loss earned during the fiscal period after accounting for all revenues, expenses, taxes, and extraordinary items.")
 
 
